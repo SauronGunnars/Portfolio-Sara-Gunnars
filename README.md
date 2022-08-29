@@ -1,6 +1,6 @@
 
 
-# Sara Gunnars: Kvinna_Student:
+# Sara Gunnars:
 
 
 
@@ -16,11 +16,8 @@
 
 <!-- | [Programmering 1][prog1]           | first programming course (gymnasiet)   | -->
 
-[dl]: 
-[ml]: 
+
 [pytprog]: 
-[data_analysis]: 
-[lin_alg]: 
 
 ---
 
