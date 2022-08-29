@@ -17,7 +17,7 @@
 <!-- | [Programmering 1][prog1]           | first programming course (gymnasiet)   | -->
 
 
-[pytprog]: 
+<!--[pytprog]: 
 
 ---
 
