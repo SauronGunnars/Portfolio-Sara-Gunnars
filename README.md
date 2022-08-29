@@ -6,7 +6,7 @@
 
 ---
 
-//TODO
+
 ## GitHub portfolio :briefcase:
 
 | Repo                           | Description                        |
