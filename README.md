@@ -11,7 +11,7 @@ I am an AI and machine learning student in Gothenburg, Sweden. This Portfolio wi
 
 | Repo                           | Description                        |
 | ------------------------------ | ---------------------------------- |
-| [Python programming]([https://github.com/SauronGunnars/Python-Sara-Gunnars])           | Introduction course                | 
+| [Python course]([https://github.com/SauronGunnars/Python-Sara-Gunnars])           | Introduction course                | 
 
 
 
